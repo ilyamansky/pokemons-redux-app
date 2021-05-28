@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokemons-redux-app/static/css/main.aef70b4a.chunk.css",
-    "main.js": "/pokemons-redux-app/static/js/main.ef95af5d.chunk.js",
-    "main.js.map": "/pokemons-redux-app/static/js/main.ef95af5d.chunk.js.map",
+    "main.js": "/pokemons-redux-app/static/js/main.e9ce6bbd.chunk.js",
+    "main.js.map": "/pokemons-redux-app/static/js/main.e9ce6bbd.chunk.js.map",
     "runtime-main.js": "/pokemons-redux-app/static/js/runtime-main.1ae8b164.js",
     "runtime-main.js.map": "/pokemons-redux-app/static/js/runtime-main.1ae8b164.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/pokemons-redux-app/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.9e45b62f.chunk.js",
     "static/css/main.aef70b4a.chunk.css",
-    "static/js/main.ef95af5d.chunk.js"
+    "static/js/main.e9ce6bbd.chunk.js"
   ]
 }
