@@ -20,13 +20,13 @@ const SearchForm = () => {
     <div>
       <Form style={{ margin: 0, padding: 0 }} className="container">
         <Form.Group className="row">
-          <Form.Control
-            className="col-10"
+          <Form.Control className="col"
             onChange={changeHandler}
             type="search"
             placeholder="Search pokemons!"
           />
-          <Button className="col-2" type="submit" onClick={onClickHandler}>
+          <Button 
+          type="submit" onClick={onClickHandler}>
             Search
           </Button>
         </Form.Group>

@@ -7,13 +7,13 @@ const NavMenu = () => {
   return (
     <div className="container">
       <div style={{ margin: 0, padding: 0 }} className="row">
-        <div style={{ margin: 0, padding: 0 }} className="col-1">
+        <div style={{ margin: 0, padding: 0 }}>
           <HomeButton />
         </div>
-        <div style={{ margin: 0, padding: 0 }} className="col-2">
+        <div style={{ margin: 0, padding: 0 }}>
           <PokemonTypesForm />
         </div>
-        <div style={{ margin: 0, padding: 0 }} className="col-9">
+        <div style={{ margin: 0, padding: 0 }} >
           <SearchForm />
         </div>
       </div>

@@ -25,10 +25,8 @@ export const fetchPokemons = createAsyncThunk(
   async (_, { getState }) => {
     const urls = getState().types.pokemonsTypeUrls;
     const requests = urls.map((el) => axios.get(el));
-    console.log(requests);
     const res = await Promise.all(requests);
     const res1 = res.map((el) => el.data);
-    console.log(res1);
     return res1;
   }
 );
